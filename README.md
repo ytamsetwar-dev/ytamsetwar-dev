@@ -12,7 +12,7 @@ An execution-focused systems developer specialized in low-latency infrastructure
 
 - 🏢 **Founder & Director** at Coderware Technologies *(Transforming Ideas Into Digital Reality)*
 - 🔬 **Specialization:** High-throughput streaming engines, real-time market data pipelines, and multi-tenant AI automation.
-- ⚡ **Current Sprint:** Executing an unyielding 180-day continuous dark-green engineering pipeline push.
+- ⚡ **Current Sprint:** Executing an unyielding 180-day continuous green engineering pipeline push.
 
 ---
 
