@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**ytamsetwar-dev/ytamsetwar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Computer Science Student & CEO of  Coderware Technologies
+- 💻 Building high-performance backend systems, algorithmic data streams, and Agentic AI solutions.
+- 🛠️ Currently executing a 180-day continuous engineering sprint (building production-grade assets daily).
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Ecosystem
+- **Languages:** Python (Advanced), SQL, JavaScript
+- **Data & AI:** Agentic AI architectures, GenAI, Power BI
+- **Infrastructure:** Git/GitHub, REST APIs, Streaming Architecture, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Continuous Contribution Tracker
