@@ -1,5 +1,5 @@
 # Hello World, I'm Yash Tamsetwar 👋 
-### ⚡ Principal Systems Creator & Autonomous AI Engineer
+### ⚡ Data Scientist  & AI/ML Engineer
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&vCenter=true&width=500&lines=Building+High-Scale+Pipelines...;Architecting+Agentic+AI+Networks...;Mastering+Distributed+Systems...;Automating+E-Commerce+Engines..." alt="Typing SVG" />
