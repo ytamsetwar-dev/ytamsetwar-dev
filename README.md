@@ -28,14 +28,15 @@ An execution-focused systems developer specialized in low-latency infrastructure
 
 ## 📊 Live System Metrics & Operational Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="48%" />
-</p>
+| Profile Overview | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
 
-<p align="center">
+<br />
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytamsetwar-dev&theme=tokyonight&hide_border=true&fire=39FF14&ring=39FF14&lbl_count=39FF14" width="97%" />
-</p>
+</div>
 
 ---
 
