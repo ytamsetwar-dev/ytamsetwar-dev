@@ -25,21 +25,19 @@ An execution-focused systems developer specialized in low-latency infrastructure
 | **Infrastructure** | <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" /> |
 
 ---
----
 
 ## 📊 Live System Metrics & Operational Stats
 
-| Profile Overview | Top Languages |
-| :---: | :---: |
-| <img src="https://github-stats-extended.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
+<div align="center">
+  <!-- GitHub Profile Trophies - Active Engine -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ytamsetwar-dev&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Yash's Trophies" width="100%" />
+</div>
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ytamsetwar-dev&theme=tokyonight&hide_border=true&fire=39FF14&ring=39FF14&lbl_count=39FF14" width="97%" />
-</div>
-
----
+| 📈 System Overview | 🔏 Core Engine Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
 
 ---
 
