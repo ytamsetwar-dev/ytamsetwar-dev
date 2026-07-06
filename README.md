@@ -28,9 +28,6 @@ An execution-focused systems developer specialized in low-latency infrastructure
 
 ## 📊 Live System Metrics & Operational Stats
 
-| Profile Overview | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
 
 <br />
 
