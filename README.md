@@ -28,16 +28,12 @@ An execution-focused systems developer specialized in low-latency infrastructure
 
 ## 📊 Live System Metrics & Operational Stats
 
-<div align="center">
-  <!-- GitHub Profile Trophies - Active Engine -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ytamsetwar-dev&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Yash's Trophies" width="100%" />
-</div>
-
-<br />
-
-| 📈 System Overview | 🔏 Core Engine Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
+| Operational Metric | Telemetry Value |
+| :--- | :--- |
+| 🚀 **Profile Account** | `ytamsetwar-dev` |
+| ⚡ **Continuous Git Push Pipeline** | <img src="https://img.shields.io/github/search/ytamsetwar-dev/enterprise-log-parser/commits?color=39FF14&label=Parser%20Commits&style=flat-square" /> |
+| 📂 **Active Main Repositories** | <img src="https://img.shields.io/github/repos/count/ytamsetwar-dev?color=39FF14&label=Total%20Repos&style=flat-square" /> |
+| 👁️ **System Edge Viewers** | <img src="https://komarev.com/ghpvc/?username=ytamsetwar-dev&color=39FF14&style=flat-square&label=Profile%20Hits" /> |
 
 ---
 
