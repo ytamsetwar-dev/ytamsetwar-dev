@@ -25,18 +25,21 @@ An execution-focused systems developer specialized in low-latency infrastructure
 | **Infrastructure** | <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" /> |
 
 ---
+---
 
 ## 📊 Live System Metrics & Operational Stats
 
 | Profile Overview | Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
+| <img src="https://github-stats-extended.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytamsetwar-dev&theme=tokyonight&hide_border=true&fire=39FF14&ring=39FF14&lbl_count=39FF14" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=ytamsetwar-dev&theme=tokyonight&hide_border=true&fire=39FF14&ring=39FF14&lbl_count=39FF14" width="97%" />
 </div>
+
+---
 
 ---
 
