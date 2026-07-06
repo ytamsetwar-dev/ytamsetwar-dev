@@ -28,12 +28,16 @@ An execution-focused systems developer specialized in low-latency infrastructure
 
 ## 📊 Live System Metrics & Operational Stats
 
-| Operational Metric | Telemetry Value |
-| :--- | :--- |
-| 🚀 **Profile Account** | `ytamsetwar-dev` |
-| ⚡ **Continuous Git Push Pipeline** | <img src="https://img.shields.io/github/search/ytamsetwar-dev/enterprise-log-parser/commits?color=39FF14&label=Parser%20Commits&style=flat-square" /> |
-| 📂 **Active Main Repositories** | <img src="https://img.shields.io/github/repos/count/ytamsetwar-dev?color=39FF14&label=Total%20Repos&style=flat-square" /> |
-| 👁️ **System Edge Viewers** | <img src="https://komarev.com/ghpvc/?username=ytamsetwar-dev&color=39FF14&style=flat-square&label=Profile%20Hits" /> |
+| Profile Overview | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ytamsetwar-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=9ece6a" width="100%" /> | <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=ytamsetwar-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=9ece6a" width="100%" /> |
+
+<br />
+
+<div align="center">
+  <!-- Cache-busted Live Streak Stats Counter -->
+  <img src="https://streak-stats.demolab.com/?user=ytamsetwar-dev&theme=tokyonight&hide_border=true&fire=39FF14&ring=39FF14&lbl_count=39FF14&v=2026" width="97%" />
+</div>
 
 ---
 
